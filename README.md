@@ -1,6 +1,7 @@
-# Ansible Workshop Resources
 
 ![Red Hat Ansible Automation Platform](images/rh-ansible-logo.svg)
+
+# Ansible Workshop Resources
 
 Ansible Workshop Playbooks
 
