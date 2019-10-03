@@ -1,5 +1,7 @@
 # Ansible Workshop Resources
 
+![Red Hat Ansible Automation Platform](images/rh-ansible-logo.svg)
+
 Ansible Workshop Playbooks
 
 This repository contains the playbooks and resources used during the Ansible RHEL Workshop.
@@ -10,4 +12,3 @@ All the exercises covered in the workshop can be found [here](https://github.com
 ## Ansible Best Practices Deck:
 Ansible best practices can be found [here](https://docs.google.com/presentation/d/1khWEuTXGQbJ-hQ4cneigDgAJ__tPccch7Q5Xqj1rkio/edit#slide=id.g547716335e_0_220)
 
-![Red Hat Ansible Automation](images/rh-ansible-automation.png)
