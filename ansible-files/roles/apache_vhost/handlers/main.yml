@@ -1,0 +1,7 @@
+---
+# Exercise 7.1 Step 7.4
+# handlers file for roles/apache_vhost
+- name: restart_httpd
+  service:
+    name: httpd
+    state: restarted
