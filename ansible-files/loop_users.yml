@@ -1,6 +1,5 @@
 ---
 # Exercise 1.5 Step 5.4
----
 - name: Ensure users
   hosts: node1
   become: yes
