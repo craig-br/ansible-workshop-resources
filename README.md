@@ -6,6 +6,8 @@
 Ansible Workshop Playbooks
 
 This repository contains the playbooks and resources used during the Ansible RHEL Workshop.
+## Ansible Workshop Slide Deck:
+The Ansible RHEL Workshop slide deck can be found [here](./decks/ansible_rhel.pdf)
 
 ## Ansible Workshop exercises:
 All the exercises covered in the workshop can be found [here](https://github.com/ansible/workshops/tree/master/exercises/ansible_rhel)
