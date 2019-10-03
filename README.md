@@ -2,7 +2,7 @@
 
 LinuxConf 2019 Ansible Workshop Playbooks
 
-This repository contains the playbooks and resources used during Ansible Workshop at LinuxConf 2019.
+This repository contains the playbooks and resources used during Ansible Workshop used at LinuxConf 2019.
 
 ## Ansible Workshop exercises:
 All the exercises covered in the workshop can be found [here](https://github.com/ansible/workshops/tree/master/exercises/ansible_rhel)
